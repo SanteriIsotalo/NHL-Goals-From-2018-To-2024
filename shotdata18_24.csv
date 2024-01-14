@@ -1,0 +1,190 @@
+SeasonStart,Rk,Team,S,S%,SA,SV%,SO
+2018,1,Tampa Bay Lightning*,2620,12.2,2633,.916,6
+2018,2,Boston Bruins*,2680,9.6,2416,.912,9
+2018,3,Calgary Flames*,2656,10.9,2302,.903,3
+2018,4,Washington Capitals*,2492,11.0,2584,.904,4
+2018,5,New York Islanders*,2360,9.4,2534,.925,11
+2018,6,San Jose Sharks*,2708,10.7,2323,.889,5
+2018,7,Toronto Maple Leafs*,2736,10.5,2717,.908,3
+2018,8,Pittsburgh Penguins*,2731,9.9,2729,.913,7
+2018,9,Nashville Predators*,2677,8.8,2460,.914,7
+2018,10,Winnipeg Jets*,2557,10.6,2741,.911,3
+2018,11,Carolina Hurricanes*,2822,8.6,2343,.906,6
+2018,12,St. Louis Blues*,2604,9.4,2345,.906,9
+2018,13,Columbus Blue Jackets*,2592,9.9,2418,.904,9
+2018,14,Montreal Canadiens,2796,8.8,2548,.907,4
+2018,15,Vegas Golden Knights*,2814,8.7,2399,.905,9
+2018,16,Dallas Stars*,2519,8.3,2591,.923,10
+2018,17,Colorado Avalanche*,2676,9.6,2619,.907,5
+2018,18,Arizona Coyotes,2522,8.3,2526,.913,6
+2018,19,Florida Panthers,2705,9.8,2516,.891,1
+2018,20,Chicago Blackhawks,2669,10.0,2852,.898,2
+2018,21,Minnesota Wild,2567,8.2,2419,.904,2
+2018,22,Philadelphia Flyers,2583,9.3,2665,.895,3
+2018,23,Vancouver Canucks,2433,9.0,2597,.905,1
+2018,24,Anaheim Ducks,2271,8.6,2725,.909,4
+2018,25,Edmonton Oilers,2392,9.6,2599,.896,5
+2018,26,New York Rangers,2393,9.2,2774,.904,2
+2018,27,Buffalo Sabres,2697,8.2,2704,.901,2
+2018,28,Detroit Red Wings,2394,9.4,2761,.901,2
+2018,29,New Jersey Devils,2488,8.8,2592,.895,6
+2018,30,Los Angeles Kings,2358,8.4,2578,.900,5
+2018,31,Ottawa Senators,2429,10.0,2931,.897,4
+2019,1,Boston Bruins*,2247,10.1,2103,.921,8
+2019,2,St. Louis Blues*,2179,10.2,2100,.910,5
+2019,3,Tampa Bay Lightning*,2176,11.2,2165,.910,4
+2019,4,Colorado Avalanche*,2257,10.5,2193,.913,4
+2019,5,Washington Capitals*,2206,10.7,2084,.898,1
+2019,6,Philadelphia Flyers*,2166,10.5,1977,.903,3
+2019,7,Vegas Golden Knights*,2450,9.1,2082,.900,6
+2019,8,Pittsburgh Penguins*,2204,10.0,2051,.904,4
+2019,9,Edmonton Oilers*,2100,10.6,2274,.905,2
+2019,10,Dallas Stars*,2113,8.4,2177,.920,2
+2019,11,Columbus Blue Jackets*,2272,7.9,2092,.913,7
+2019,12,Toronto Maple Leafs*,2302,10.3,2233,.901,4
+2019,13,Carolina Hurricanes*,2261,9.6,1994,.903,6
+2019,14,Winnipeg Jets*,2222,9.6,2315,.913,6
+2019,15,New York Islanders*,2016,9.4,2123,.911,3
+2019,16,Calgary Flames*,2212,9.2,2271,.906,4
+2019,17,New York Rangers*,2175,10.7,2381,.908,3
+2019,18,Vancouver Canucks*,2153,10.4,2297,.907,2
+2019,19,Florida Panthers*,2253,10.1,2227,.899,2
+2019,20,Nashville Predators*,2287,9.3,2157,.901,7
+2019,21,Minnesota Wild*,2077,10.5,2115,.897,6
+2019,22,Arizona Coyotes*,2220,8.6,2270,.919,4
+2019,23,Chicago Blackhawks*,2227,9.3,2458,.913,1
+2019,24,Montreal Canadiens*,2422,8.6,2208,.900,4
+2019,25,New Jersey Devils,2117,8.7,2256,.901,4
+2019,26,Buffalo Sabres,2021,9.5,2148,.900,3
+2019,27,Anaheim Ducks,2106,8.6,2282,.901,1
+2019,28,Los Angeles Kings,2325,7.6,2079,.899,1
+2019,29,San Jose Sharks,2101,8.6,2140,.895,2
+2019,30,Ottawa Senators,2174,8.7,2384,.900,0
+2019,31,Detroit Red Wings,1924,7.4,2329,.886,1
+2020,1,Vegas Golden Knights*,1829,10.4,1527,.920,7
+2020,2,Colorado Avalanche*,1937,10.2,1423,.907,8
+2020,3,Carolina Hurricanes*,1794,9.8,1581,.915,6
+2020,4,Florida Panthers*,1954,9.6,1682,.910,3
+2020,5,Washington Capitals*,1647,11.4,1612,.900,4
+2020,6,Toronto Maple Leafs*,1751,10.6,1558,.905,3
+2020,7,Pittsburgh Penguins*,1684,11.5,1679,.908,5
+2020,8,Tampa Bay Lightning*,1692,10.6,1583,.908,6
+2020,9,Minnesota Wild*,1585,11.4,1705,.907,4
+2020,10,Boston Bruins*,1866,8.8,1516,.912,6
+2020,11,Edmonton Oilers*,1674,10.9,1717,.910,3
+2020,12,New York Islanders*,1623,9.4,1590,.921,10
+2020,13,Nashville Predators*,1679,9.0,1753,.912,5
+2020,14,St. Louis Blues*,1622,10.3,1670,.900,1
+2020,15,Winnipeg Jets*,1661,10.2,1713,.911,5
+2020,16,Dallas Stars,1699,9.2,1518,.903,4
+2020,17,New York Rangers,1607,11.0,1664,.907,5
+2020,18,Montreal Canadiens*,1746,9.0,1579,.896,1
+2020,19,Philadelphia Flyers,1692,9.5,1636,.880,3
+2020,20,Chicago Blackhawks,1635,9.7,1888,.903,4
+2020,21,Calgary Flames,1689,9.2,1577,.899,4
+2020,22,Arizona Coyotes,1538,9.8,1706,.898,4
+2020,23,Ottawa Senators,1663,9.3,1799,.895,2
+2020,24,Vancouver Canucks,1629,9.1,1870,.900,1
+2020,25,Los Angeles Kings,1587,8.9,1746,.903,2
+2020,26,San Jose Sharks,1682,8.7,1791,.891,2
+2020,27,Detroit Red Wings,1528,8.2,1786,.906,2
+2020,28,Columbus Blue Jackets,1625,8.2,1815,.899,2
+2020,29,New Jersey Devils,1612,9.0,1737,.891,3
+2020,30,Anaheim Ducks,1500,8.3,1712,.897,4
+2020,31,Buffalo Sabres,1592,8.4,1889,.896,0
+2021,1,Florida Panthers*,3062,11.0,2515,.904,5
+2021,2,Colorado Avalanche*,2874,10.7,2625,.912,7
+2021,3,Carolina Hurricanes*,2798,9.9,2310,.913,6
+2021,4,Toronto Maple Leafs*,2835,11.0,2511,.900,7
+2021,5,Minnesota Wild*,2666,11.4,2577,.903,3
+2021,6,Calgary Flames*,2908,10.0,2374,.913,11
+2021,7,Tampa Bay Lightning*,2535,11.2,2441,.907,3
+2021,8,New York Rangers*,2392,10.5,2528,.919,9
+2021,9,St. Louis Blues*,2492,12.4,2591,.908,4
+2021,10,Boston Bruins*,2962,8.5,2354,.907,4
+2021,11,Edmonton Oilers*,2790,10.2,2647,.905,4
+2021,12,Pittsburgh Penguins*,2849,9.4,2576,.914,7
+2021,13,Washington Capitals*,2577,10.5,2378,.898,8
+2021,14,Los Angeles Kings*,2865,8.2,2341,.901,5
+2021,15,Dallas Stars*,2486,9.4,2545,.904,2
+2021,16,Nashville Predators*,2439,10.7,2646,.906,4
+2021,17,Vegas Golden Knights,2830,9.3,2458,.901,3
+2021,18,Vancouver Canucks,2622,9.4,2612,.912,1
+2021,19,Winnipeg Jets,2645,9.5,2721,.907,5
+2021,20,New York Islanders,2367,9.7,2669,.913,9
+2021,21,Columbus Blue Jackets,2463,10.5,2887,.897,2
+2021,22,San Jose Sharks,2400,8.8,2622,.900,3
+2021,23,Anaheim Ducks,2393,9.5,2725,.902,4
+2021,24,Buffalo Sabres,2451,9.3,2702,.894,1
+2021,25,Detroit Red Wings,2414,9.4,2761,.888,4
+2021,26,Ottawa Senators,2463,9.1,2740,.904,2
+2021,27,Chicago Blackhawks,2362,9.0,2703,.893,4
+2021,28,New Jersey Devils,2562,9.6,2540,.881,2
+2021,29,Philadelphia Flyers,2539,8.3,2785,.894,1
+2021,30,Seattle Kraken,2380,8.9,2367,.880,3
+2021,31,Arizona Coyotes,2121,9.7,2910,.894,1
+2021,32,Montreal Canadiens,2442,8.9,2823,.888,3
+2022,1,Boston Bruins*,2703,11.1,2447,.929,7
+2022,2,Carolina Hurricanes*,2852,9.2,2132,.902,9
+2022,3,New Jersey Devils*,2821,10.2,2315,.904,4
+2022,4,Vegas Golden Knights*,2587,10.3,2533,.911,3
+2022,5,Toronto Maple Leafs*,2628,10.6,2420,.909,5
+2022,6,Colorado Avalanche*,2727,10.0,2539,.912,6
+2022,7,Edmonton Oilers*,2754,11.8,2572,.900,2
+2022,8,Dallas Stars*,2617,10.7,2452,.912,6
+2022,9,New York Rangers*,2582,10.6,2405,.910,4
+2022,10,Los Angeles Kings*,2658,10.3,2289,.889,3
+2022,11,Minnesota Wild*,2535,9.4,2552,.914,5
+2022,12,Seattle Kraken*,2497,11.6,2215,.886,3
+2022,13,Tampa Bay Lightning*,2621,10.7,2582,.902,6
+2022,14,Winnipeg Jets*,2486,9.9,2487,.910,4
+2022,15,Calgary Flames,2948,8.8,2240,.890,1
+2022,16,New York Islanders*,2524,9.6,2544,.915,8
+2022,17,Florida Panthers*,3019,9.5,2603,.896,3
+2022,18,Nashville Predators,2419,9.2,2729,.914,2
+2022,19,Buffalo Sabres,2665,11.0,2710,.890,2
+2022,20,Pittsburgh Penguins,2818,9.3,2687,.902,2
+2022,21,Ottawa Senators,2746,9.4,2572,.895,3
+2022,22,Vancouver Canucks,2438,11.1,2527,.883,1
+2022,23,St. Louis Blues,2341,11.1,2652,.888,4
+2022,24,Washington Capitals,2549,9.9,2548,.898,5
+2022,25,Detroit Red Wings,2312,10.3,2496,.890,4
+2022,26,Philadelphia Flyers,2416,9.1,2585,.893,3
+2022,27,Arizona Coyotes,2119,10.6,2874,.897,4
+2022,28,Montreal Canadiens,2237,10.1,2753,.889,1
+2022,29,San Jose Sharks,2415,9.6,2640,.881,4
+2022,30,Chicago Blackhawks,2210,9.1,2758,.892,2
+2022,31,Columbus Blue Jackets,2399,8.9,2904,.887,0
+2022,32,Anaheim Ducks,2326,8.9,3207,.896,1
+2023,1,Winnipeg Jets,1237,11.1,1153,.919,2
+2023,2,Vancouver Canucks,1161,13.8,1232,.914,4
+2023,3,Boston Bruins,1215,11.0,1284,.916,2
+2023,4,Colorado Avalanche,1311,11.4,1176,.890,1
+2023,5,New York Rangers,1226,10.7,1151,.904,2
+2023,6,Florida Panthers,1355,9.4,1080,.908,2
+2023,7,Vegas Golden Knights,1287,10.0,1205,.908,2
+2023,8,Dallas Stars,1183,11.8,1162,.898,2
+2023,9,Carolina Hurricanes,1329,10.2,1024,.884,2
+2023,10,Toronto Maple Leafs,1270,10.7,1192,.899,3
+2023,11,Los Angeles Kings,1260,9.8,1000,.910,3
+2023,12,New York Islanders,1187,10.3,1405,.906,4
+2023,13,Philadelphia Flyers,1327,8.6,1160,.904,3
+2023,14,Nashville Predators,1253,10.1,1253,.896,2
+2023,15,Tampa Bay Lightning,1266,10.7,1271,.886,3
+2023,16,Pittsburgh Penguins,1304,9.1,1197,.912,6
+2023,17,Washington Capitals,1054,8.6,1189,.905,2
+2023,18,New Jersey Devils,1197,11.3,1118,.879,0
+2023,19,Detroit Red Wings,1192,11.9,1286,.894,2
+2023,20,Edmonton Oilers,1253,10.5,1055,.892,2
+2023,21,Seattle Kraken,1177,9.3,1193,.905,2
+2023,22,Arizona Coyotes,1056,11.0,1221,.904,5
+2023,23,St. Louis Blues,1182,9.1,1236,.900,2
+2023,24,Calgary Flames,1308,9.7,1221,.894,1
+2023,25,Montreal Canadiens,1115,9.6,1305,.897,0
+2023,26,Minnesota Wild,1172,9.6,1171,.893,2
+2023,27,Buffalo Sabres,1279,9.5,1219,.887,1
+2023,28,Columbus Blue Jackets,1225,10.2,1434,.893,0
+2023,29,Anaheim Ducks,1180,8.6,1308,.898,0
+2023,30,Ottawa Senators,1165,10.1,1137,.885,1
+2023,31,Chicago Blackhawks,1072,8.9,1339,.886,1
+2023,32,San Jose Sharks,1036,7.8,1457,.885,0
